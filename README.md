@@ -1,6 +1,6 @@
 # Hello Everyone
 
-I'm I am a high school student from China.
+I'm a high school student from China.
 
 These are some intro of me:
 - Favorite programming languages: C, Python, C++
