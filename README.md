@@ -9,4 +9,4 @@ These are some intro of me:
 
 | My GitHub Stats                                                                                                          | Language used most                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| ![SpringHan's github stats](https://github-readme-stats.vercel.app/api?username=codewuren&show_icons=true&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewuren) |
+| ![CodeWuRen's github stats](https://github-readme-stats.vercel.app/api?username=codewuren&show_icons=true&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewuren) |
