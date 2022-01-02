@@ -5,7 +5,7 @@ I'm a high school student from China.
 These are some intro of me:
 - Favorite programming languages: C, Python, C++
 - Keyboard layout: Qwerty
-- Code Editor: [Emacs](https://github.com/codewuren/.emacs.d) & [NeoVim](https://github.com/codewuren/nvim)
+- Code Editor: [Emacs](https://github.com/codewuren/.emacs.d)
 
 | My GitHub Stats                                                                                                          | Language used most                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
