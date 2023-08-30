@@ -1,9 +1,7 @@
 # Hello Everyone
 
-I'm a high school student from China.
-
 These are some intro of me:
-- Favorite programming languages: C, Python, C++
+- Favorite programming languages: C++, C, Python
 - Keyboard layout: Qwerty
 - Code Editor: [Emacs](https://github.com/codewuren/.emacs.d)
 
